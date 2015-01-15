@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"arArray"
+			],
+			[
+				"ver",
+				"version_sup"
+			],
+			[
+				"pass",
+				"passwort2"
+			],
+			[
+				"gameO",
+				"gameObject	*()"
+			],
+			[
+				"cub",
+				"cube	PrimitiveType.*"
+			],
+			[
+				"Create",
+				"CreatePrimitive	GameObject.*(type)"
+			],
+			[
+				"Createpr",
+				"CreatePrimitive	PolygonCollider2D.*(sides, scale, offset)"
+			],
+			[
+				"fo",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hecki97/Desktop/Trove (Test).app/Wineskin.app/Contents/Resources/winetricks",
+		"/Users/hecki97/Downloads/winetricks-fa9e42955dbd/src/winetricks",
+		"/Users/hecki97/Downloads/winetricks-fa9e42955dbd/Makefile",
+		"/Volumes/Steamliner/Steamliner.app/Contents/Resources/drive_c/run-steam.bat",
+		"/Users/hecki97/Downloads/Gothic 3/Gothic 3.app/Contents/Resources/drive_c/Program Files/Gothic 3/Ini/ge3.INI",
+		"/Users/hecki97/Downloads/Gothic 3/tm/Readme.hta",
+		"/Users/hecki97/Desktop/Trove.app/Contents/Resources/drive_c/Program Files/Glyph/Games/Trove/Live/Trove.cfg",
+		"/Users/hecki97/Desktop/Wrapper + config/Gothic.app/Contents/Resources/drive_c/Program Files/Gothic/system/GOTHIC.INI",
+		"/Users/hecki97/Documents/My Games/Path of Exile/production_Config.ini",
+		"/Users/hecki97/Downloads/Steam (Windows).app/Contents/Resources/drive_c/run-steam.bat",
+		"/Users/hecki97/Downloads/Sacred mac/Sacred Gold.app/Contents/Resources/transgaming/c_drive/Sacred Gold/Settings.cfg",
+		"/Users/hecki97/Desktop/database.config",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/php/_stundenplanClass.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/html/htmlHead.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/php/_edit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/edit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/stundenplan.sublime-workspace",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/registration.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/info.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/php/_index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/php/_login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/php/_registration.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/php/_auth.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/php/_checkDataBase.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/res/config/database.config",
+		"/Applications/XAMPP/xamppfiles/htdocs/stundenplan/stundenplan.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/html/htmlHead.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/registration.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/onlineEditor.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/settings.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/upload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/info.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_onlineEditor.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_registration.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_settings.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_upload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/config/database.config",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_checkDataBase.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/lang/de_DE.lang",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/lang/en_US.lang",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/mobile_info.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/res/php/_mobile_modul.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/lang/la_LA.lang",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/mobile_modul.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/res/php/_mobile_info.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_auth.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/res/php/_session.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/res/php/_index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/res/php/_mobile_cookie.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/mobile_cookie.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mobile/res/html/mobileHtmlHead.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mlkvplan-desktop.air/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/mlkvplan-desktop.air/mlkvplan-desktop-app.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/modulDisabled.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mlkvplan/res/php/_logout.php",
+		"/Users/hecki97/Documents/SourceTree/stundenplan/index.php",
+		"/Users/hecki97/touchProject/unity_project.sublime-project",
+		"/Users/hecki97/touchProject/.gitignore",
+		"/Users/hecki97/Documents/SourceTree/MLKVertretungsplan-online/res/lang/de_DE.lang",
+		"/Users/hecki97/Documents/SourceTree/stundenplan/edit.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"host",
+			"th",
+			"!\",",
+			"_auth",
+			"}\n",
+			"warning2",
+			"b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "artikelVerwaltung.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
